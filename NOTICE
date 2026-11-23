@@ -1,0 +1,4 @@
+책숨 Korean Pocket TTS bundle (CoreML), CC BY 4.0.
+Model: Kyutai Pocket TTS (kyutai/pocket-tts, CC BY 4.0) — Korean 6-layer community model ummjevel/pocket-tts-korean-100m-distilled (CC BY 4.0),
+fine-tuned by Monoon Labs (책숨) with every Hangul syllable added to the tokenizer and 책숨's own designed voices.
+CoreML graphs converted with FluidInference/mobius (Apache-2.0) scripts; audio decoder from aufklarer/Pocket-TTS-100M-CoreML-INT8 (CC BY 4.0).
